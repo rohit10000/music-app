@@ -1,4 +1,4 @@
-# Custom Music-app based on spotify-api's.
+# Custom Music-app based on spotify-api's. | [link](https://music-app-6ec69.web.app)
 
 Things I learnt here:
 
