@@ -1,0 +1,29 @@
+.sidebar {
+    border: 1px solid black;
+    height: 100vh;
+    flex: 0.2;
+    color: white;
+    height: 100vh;
+    min-width: 230px;
+    background-color: #040404;
+}
+
+.sidebar > hr {
+    border: 1px solid #282828;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.sidebar__logo {
+    /*if we would have changed the width also then we would have used
+        object-fit: contain, so that to prevent image from stretching.
+    */
+    height: 60px;
+    margin-right: auto;
+    margin-left: 60px;
+    padding: 10px;
+
+}
+.sidebar__title{
+    padding-left: 10px;
+}
